@@ -1,7 +1,4 @@
-<div align="center">
 
-  
-  
   
   <p>
 Job Portal with REACT NATIVE! (Navigation, Redux, Tailwind CSS & Job API)
@@ -16,7 +13,13 @@ Job Portal with REACT NATIVE! (Navigation, Redux, Tailwind CSS & Job API)
 <!-- Screenshots -->
 
 ### :camera: Screenshots
-
+<div align="center"><br>
+ <img align="center" alt="React"  width="full" height="500" src="<img width="344" alt="Screenshot 2024-09-07 at 9 54 26 AM" src="https://github.com/user-attachments/assets/bbceb958-12ee-4c26-a68b-5558b10265e6">
+">
+  <img align="center" alt="React"  width="full" height="500" src="https://user-images.githubusercontent.com/84333971/233634462-f0bb8f62-5a3c-4231-82cd-2c05bf3d4c7b.jpg">
+   <img align="center" alt="React"  width="full" height="500" src="https://user-images.githubusercontent.com/84333971/233634700-82f38af2-6674-4488-9b2c-0aeddacffba9.jpg">
+</div>
+<br />
 
 <br />
 
