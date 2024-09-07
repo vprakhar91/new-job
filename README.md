@@ -10,14 +10,9 @@ Job Portal with REACT NATIVE! (Navigation, Redux, Tailwind CSS & Job API)
 
 ## :star2: About the Project
 
-<!-- Screenshots -->
 
-### :camera: Screenshots
-<div align="center"><br>
-  <img align="center" alt="React"  width="full" height="500" src="[https://user-images.githubusercontent.com/84333971/233634462-f0bb8f62-5a3c-4231-82cd-2c05bf3d4c7b.jpg](https://paste.pics/5215a0ddb5030f12eacd16b27993786c)">
-   <img align="center" alt="React"  width="full" height="500" src="https://user-images.githubusercontent.com/84333971/233634700-82f38af2-6674-4488-9b2c-0aeddacffba9.jpg">
-</div>
-<br />
+
+
 
 <br />
 
